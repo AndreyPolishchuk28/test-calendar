@@ -1,0 +1,48 @@
+{
+  "name": "test_calendar",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "^17.3.19",
+    "@syncfusion/ej2-buttons": "^17.3.19",
+    "@syncfusion/ej2-calendars": "^17.3.19",
+    "@syncfusion/ej2-compression": "^17.3.19",
+    "@syncfusion/ej2-data": "^17.3.19",
+    "@syncfusion/ej2-dropdowns": "^17.3.19",
+    "@syncfusion/ej2-excel-export": "^17.3.19",
+    "@syncfusion/ej2-file-utils": "^17.3.19",
+    "@syncfusion/ej2-inputs": "^17.3.19",
+    "@syncfusion/ej2-lists": "^17.3.19",
+    "@syncfusion/ej2-navigations": "^17.3.19",
+    "@syncfusion/ej2-popups": "^17.3.19",
+    "@syncfusion/ej2-react-schedule": "^17.3.19",
+    "@syncfusion/ej2-schedule": "^17.3.19",
+    "gh-pages": "^2.1.1",
+    "moment": "^2.24.0",
+    "react": "^16.11.0",
+    "react-big-calendar": "^0.23.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
