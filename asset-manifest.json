@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-calendar/static/css/main.b100e6da.chunk.css",
+    "main.js": "/test-calendar/static/js/main.a7489af1.chunk.js",
+    "main.js.map": "/test-calendar/static/js/main.a7489af1.chunk.js.map",
+    "runtime-main.js": "/test-calendar/static/js/runtime-main.25b50787.js",
+    "runtime-main.js.map": "/test-calendar/static/js/runtime-main.25b50787.js.map",
+    "static/js/2.5bf99192.chunk.js": "/test-calendar/static/js/2.5bf99192.chunk.js",
+    "static/js/2.5bf99192.chunk.js.map": "/test-calendar/static/js/2.5bf99192.chunk.js.map",
+    "index.html": "/test-calendar/index.html",
+    "precache-manifest.9a5926bbb1a76dfdd4b0eba9fa76e499.js": "/test-calendar/precache-manifest.9a5926bbb1a76dfdd4b0eba9fa76e499.js",
+    "service-worker.js": "/test-calendar/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/test-calendar/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b50787.js",
+    "static/js/2.5bf99192.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a7489af1.chunk.js"
+  ]
+}
