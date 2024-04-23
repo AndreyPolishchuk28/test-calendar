@@ -18,7 +18,7 @@
     "@syncfusion/ej2-popups": "^17.3.19",
     "@syncfusion/ej2-react-schedule": "^17.3.19",
     "@syncfusion/ej2-schedule": "^17.3.19",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "moment": "^2.24.0",
     "react": "^16.11.0",
     "react-big-calendar": "^0.23.0",
